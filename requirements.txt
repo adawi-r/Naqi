@@ -1,0 +1,11 @@
+streamlit
+pandas 
+numpy 
+tensorflow==2.6.0
+tensorflow.keras.preprocessing.text 
+tensorflow.keras.preprocessing.sequence 
+emoji
+pickle
+string
+os
+re
